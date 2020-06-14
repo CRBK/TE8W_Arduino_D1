@@ -2,15 +2,13 @@
 
 ## Hardwarekomponenten
 
-Name	Menge	Wert
-Arduino Uno R3	1	
-Oszilloskop	3	
-Drucktaster	3	5VDC
-Multimeter	2	Spannung
-Stromquelle	1	5VDC
-Widerstand	2	1kOhm
-
-
+Name,	Menge,	Wert;
+Arduino Uno, R3,	1;	
+Oszilloskop,	3;	
+Drucktaster,	3,	5VDC;
+Multimeter,	2,	Spannung;
+Stromquelle,	1,	5VDC;
+Widerstand,	2,	1kOhm;
 
 ## Projektbeschreibung
 
