@@ -6,7 +6,7 @@ Name	          Menge	  Wert
 
 Arduino Uno R3	1	
 
-Oszilloskop,	  3
+Oszilloskop 	  3
 
 Drucktaster	    3	     5VDC
 
