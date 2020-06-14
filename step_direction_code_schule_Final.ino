@@ -2,7 +2,7 @@
 
 Task: Excecuting simple movements with a Stepper Motor.
 In addition: read the curruent position.
-Author: Niklas Schröder
+Author: Niklas Schröder and Marco Thielen
 */
  
 
